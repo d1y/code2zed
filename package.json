@@ -8,6 +8,10 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@types/bun": "latest",
     "@types/node": "^20.11.16"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
   }
 }
